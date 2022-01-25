@@ -12,6 +12,7 @@ namespace webAPIg3.Controllers
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
+        hfdg
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
